@@ -1,2 +1,2 @@
-Front end for yoga template
-Responsive
+Responsive Front end for yoga template
+
